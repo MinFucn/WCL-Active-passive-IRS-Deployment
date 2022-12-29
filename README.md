@@ -1,7 +1,7 @@
 # Active and Passive IRS Jointly Aided Communication: Deployment Design and Achievable Rate
 This is a code package is related to the follow scientific article:
 
-M. Fu and R. Zhang, "Active and Passive IRS Jointly Aided Communication: Deployment Design and Achievable Rate," in IEEE Wireless Communications Letters, 2022. doi: 10.1109/LWC.2022.3224457.
+M. Fu and R. Zhang, "[Active and Passive IRS Jointly Aided Communication: Deployment Design and Achievable Rate](https://arxiv.org/pdf/2209.04984.pdf),"  in IEEE Wireless Communications Letters, 2022. doi: 10.1109/LWC.2022.3224457.
 
 The package contains a simulation environment, based on Matlab, that reproduces some of the numerical results and figures in the article. We encourage you to also perform reproducible research!
 # Abstract of Article
